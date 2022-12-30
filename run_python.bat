@@ -1,3 +1,3 @@
 title file uploader
-"your python.exe dir" "main.py"
+"your python.exe dir" "script dir"
 pause
