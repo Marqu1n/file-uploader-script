@@ -1,5 +1,5 @@
 # File Uploader Script
- A script in python that uploads a file off your choice.
+ A script in python that uploads a file of your choice.
  It uses the google drive api and requires a [Google Project](https://cloud.google.com/resource-manager/docs/creating-managing-projects?hl=en_us) and the [Google Drive Api](https://console.cloud.google.com/apis/library/drive.googleapis.com).
  
  The paths on the script need to be adjusted for every computer you use, since every file needs the proper directory.
